@@ -5,15 +5,16 @@
   "scripts": {
     "dev": "next dev",
     "build": "next build",
-    "start": "next start",
-    "node-dev": "node server.js"
+    "start": "next start"
   },
   "dependencies": {
     "@material-ui/core": "^4.11.3",
     "axios": "^0.21.1",
+    "bulma": "^0.9.2",
     "next": "^10.0.6",
     "react": "17.0.1",
     "react-dom": "17.0.1",
-    "react-translated": "^2.5.0"
+    "react-translated": "^2.5.0",
+    "reactstrap": "^8.9.0"
   }
 }
